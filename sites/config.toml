@@ -1,0 +1,14 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "My New Hugo Site"
+themes = 'casper'
+
+
+[params]
+  produc = "产品"
+  ask = "解决方案"
+  resource = "资源"
+  supp = "支持"
+  company = "公司"
+  
+  LogoImg = "/images/Azul-Logo.png"
